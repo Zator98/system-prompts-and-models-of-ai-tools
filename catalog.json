@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "readme_md.other.readme",
+    "tool": "README.md",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": "README.md",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "license_md.other.license",
+    "tool": "LICENSE.md",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": "LICENSE.md",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "replit.coder_system_prompt.prompt",
+    "tool": "Replit",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Replit/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "replit.tools_config.tools",
+    "tool": "Replit",
+    "vendor": null,
+    "family": "IDE",
+    "role": "tools_config",
+    "path": "Replit/Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "manus.tools_config.prompt",
+    "tool": "Manus",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "tools_config",
+    "path": "Manus Agent Tools & Prompt/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "manus.tools_config.agent_loop",
+    "tool": "Manus",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "tools_config",
+    "path": "Manus Agent Tools & Prompt/Agent loop.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "manus.tools_config.modules",
+    "tool": "Manus",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "tools_config",
+    "path": "Manus Agent Tools & Prompt/Modules.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "manus.tools_config.tools",
+    "tool": "Manus",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "tools_config",
+    "path": "Manus Agent Tools & Prompt/tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "qoder.other.quest_design",
+    "tool": "Qoder",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Qoder/Quest Design.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "qoder.coder_system_prompt.prompt",
+    "tool": "Qoder",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Qoder/prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "qoder.action_prompt.quest_action",
+    "tool": "Qoder",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "action_prompt",
+    "path": "Qoder/Quest Action.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "orchids_app.coder_system_prompt.system_prompt",
+    "tool": "Orchids.app",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "coder_system_prompt",
+    "path": "Orchids.app/System Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "orchids_app.decision_prompt.decision-making_prompt",
+    "tool": "Orchids.app",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "decision_prompt",
+    "path": "Orchids.app/Decision-making prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "junie.coder_system_prompt.prompt",
+    "tool": "Junie",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Junie/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "notionai.coder_system_prompt.prompt",
+    "tool": "NotionAI",
+    "vendor": null,
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "NotionAi/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "notionai.tools_config.tools",
+    "tool": "NotionAI",
+    "vendor": null,
+    "family": "other",
+    "role": "tools_config",
+    "path": "NotionAi/tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "kiro.coder_system_prompt.spec_prompt",
+    "tool": "Kiro",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Kiro/Spec_Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "kiro.coder_system_prompt.vibe_prompt",
+    "tool": "Kiro",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Kiro/Vibe_Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "kiro.coder_system_prompt.mode_clasifier_prompt",
+    "tool": "Kiro",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Kiro/Mode_Clasifier_Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "devin.coder_system_prompt.prompt",
+    "tool": "Devin",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Devin AI/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "devin.coder_system_prompt.deepwiki_prompt",
+    "tool": "Devin",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Devin AI/DeepWiki Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "_github.other.funding",
+    "tool": ".github",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": ".github/FUNDING.yml",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "leap_new.coder_system_prompt.prompts",
+    "tool": "Leap.new",
+    "vendor": null,
+    "family": "ui_builder",
+    "role": "coder_system_prompt",
+    "path": "Leap.new/Prompts.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "leap_new.tools_config.tools",
+    "tool": "Leap.new",
+    "vendor": null,
+    "family": "ui_builder",
+    "role": "tools_config",
+    "path": "Leap.new/tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "augment_code.tools_config.claude-4-sonnet-tools",
+    "tool": "Augment Code",
+    "vendor": null,
+    "family": "IDE",
+    "role": "tools_config",
+    "path": "Augment Code/claude-4-sonnet-tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "augment_code.tools_config.gpt-5-tools",
+    "tool": "Augment Code",
+    "vendor": null,
+    "family": "IDE",
+    "role": "tools_config",
+    "path": "Augment Code/gpt-5-tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "augment_code.coder_system_prompt.claude-4-sonnet-agent-prompts",
+    "tool": "Augment Code",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Augment Code/claude-4-sonnet-agent-prompts.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "augment_code.coder_system_prompt.gpt-5-agent-prompts",
+    "tool": "Augment Code",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Augment Code/gpt-5-agent-prompts.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "claude_(root).other.claude_code_2.0",
+    "tool": "Claude (root)",
+    "vendor": "Anthropic",
+    "family": "other",
+    "role": "other",
+    "path": "Anthropic/Claude Code 2.0.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "claude_(root).coder_system_prompt.sonnet_4.5_prompt",
+    "tool": "Claude (root)",
+    "vendor": "Anthropic",
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "Anthropic/Sonnet 4.5 Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "same_dev.coder_system_prompt.prompt",
+    "tool": "Same.dev",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Same.dev/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "same_dev.tools_config.tools",
+    "tool": "Same.dev",
+    "vendor": null,
+    "family": "IDE",
+    "role": "tools_config",
+    "path": "Same.dev/Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "emergent.coder_system_prompt.prompt",
+    "tool": "Emergent",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Emergent/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "emergent.tools_config.tools",
+    "tool": "Emergent",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "tools_config",
+    "path": "Emergent/Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "xcode.action_prompt.documentaction",
+    "tool": "Xcode",
+    "vendor": null,
+    "family": "IDE",
+    "role": "action_prompt",
+    "path": "Xcode/DocumentAction.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "xcode.action_prompt.explainaction",
+    "tool": "Xcode",
+    "vendor": null,
+    "family": "IDE",
+    "role": "action_prompt",
+    "path": "Xcode/ExplainAction.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "xcode.coder_system_prompt.system",
+    "tool": "Xcode",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Xcode/System.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "xcode.action_prompt.playgroundaction",
+    "tool": "Xcode",
+    "vendor": null,
+    "family": "IDE",
+    "role": "action_prompt",
+    "path": "Xcode/PlaygroundAction.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "xcode.action_prompt.previewaction",
+    "tool": "Xcode",
+    "vendor": null,
+    "family": "IDE",
+    "role": "action_prompt",
+    "path": "Xcode/PreviewAction.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "xcode.action_prompt.messageaction",
+    "tool": "Xcode",
+    "vendor": null,
+    "family": "IDE",
+    "role": "action_prompt",
+    "path": "Xcode/MessageAction.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cursor.coder_system_prompt.agent_prompt_v1.0",
+    "tool": "Cursor",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Cursor Prompts/Agent Prompt v1.0.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cursor.coder_system_prompt.agent_prompt_2.0",
+    "tool": "Cursor",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Cursor Prompts/Agent Prompt 2.0.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cursor.coder_system_prompt.agent_prompt_v1.2",
+    "tool": "Cursor",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Cursor Prompts/Agent Prompt v1.2.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cursor.tools_config.agent_tools_v1.0",
+    "tool": "Cursor",
+    "vendor": null,
+    "family": "IDE",
+    "role": "tools_config",
+    "path": "Cursor Prompts/Agent Tools v1.0.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cursor.coder_system_prompt.chat_prompt",
+    "tool": "Cursor",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Cursor Prompts/Chat Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cursor.coder_system_prompt.agent_prompt_2025-09-03",
+    "tool": "Cursor",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Cursor Prompts/Agent Prompt 2025-09-03.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cursor.coder_system_prompt.agent_cli_prompt_2025-08-07",
+    "tool": "Cursor",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Cursor Prompts/Agent CLI Prompt 2025-08-07.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "warp_dev.coder_system_prompt.prompt",
+    "tool": "Warp.dev",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Warp.dev/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.other.nes-tab-completion",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "VSCode Agent/nes-tab-completion.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.coder_system_prompt.prompt",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "VSCode Agent/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.other.gpt-4.1",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "VSCode Agent/gpt-4.1.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.other.claude-sonnet-4",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "VSCode Agent/claude-sonnet-4.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.other.gemini-2.5-pro",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "VSCode Agent/gemini-2.5-pro.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.chat_meta.chat-titles",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "chat_meta",
+    "path": "VSCode Agent/chat-titles.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.other.gpt-4o",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "VSCode Agent/gpt-4o.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.other.gpt-5-mini",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "VSCode Agent/gpt-5-mini.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "vscode_agent.other.gpt-5",
+    "tool": "VSCode Agent",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "VSCode Agent/gpt-5.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "windsurf.coder_system_prompt.prompt_wave_11",
+    "tool": "Windsurf",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Windsurf/Prompt Wave 11.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "windsurf.tools_config.tools_wave_11",
+    "tool": "Windsurf",
+    "vendor": null,
+    "family": "IDE",
+    "role": "tools_config",
+    "path": "Windsurf/Tools Wave 11.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "perplexity.coder_system_prompt.prompt",
+    "tool": "Perplexity",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "coder_system_prompt",
+    "path": "Perplexity/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "v0.tools_config.prompt",
+    "tool": "v0",
+    "vendor": null,
+    "family": "ui_builder",
+    "role": "tools_config",
+    "path": "v0 Prompts and Tools/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "v0.tools_config.tools",
+    "tool": "v0",
+    "vendor": null,
+    "family": "ui_builder",
+    "role": "tools_config",
+    "path": "v0 Prompts and Tools/Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "comet_assistant.coder_system_prompt.system_prompt",
+    "tool": "Comet Assistant",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "coder_system_prompt",
+    "path": "Comet Assistant/System Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "comet_assistant.tools_config.tools",
+    "tool": "Comet Assistant",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "tools_config",
+    "path": "Comet Assistant/tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "traycer_ai.planner_system_prompt.phase_mode_prompts",
+    "tool": "Traycer AI",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "planner_system_prompt",
+    "path": "Traycer AI/phase_mode_prompts.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "traycer_ai.tools_config.plan_mode_tools",
+    "tool": "Traycer AI",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "tools_config",
+    "path": "Traycer AI/plan_mode_tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "traycer_ai.tools_config.phase_mode_tools",
+    "tool": "Traycer AI",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "tools_config",
+    "path": "Traycer AI/phase_mode_tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "trae.coder_system_prompt.builder_prompt",
+    "tool": "Trae",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Trae/Builder Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "trae.coder_system_prompt.chat_prompt",
+    "tool": "Trae",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "coder_system_prompt",
+    "path": "Trae/Chat Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "trae.tools_config.builder_tools",
+    "tool": "Trae",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "tools_config",
+    "path": "Trae/Builder Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "lovable.tools_config.agent_tools",
+    "tool": "Lovable",
+    "vendor": null,
+    "family": "IDE",
+    "role": "tools_config",
+    "path": "Lovable/Agent Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "lovable.coder_system_prompt.agent_prompt",
+    "tool": "Lovable",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Lovable/Agent Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "amp.other.readme",
+    "tool": "Amp",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "Amp/README.md",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "amp.other.gpt-5",
+    "tool": "Amp",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "Amp/gpt-5.yaml",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "amp.other.claude-4-sonnet",
+    "tool": "Amp",
+    "vendor": null,
+    "family": "IDE",
+    "role": "other",
+    "path": "Amp/claude-4-sonnet.yaml",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "dia.coder_system_prompt.prompt",
+    "tool": "Dia",
+    "vendor": null,
+    "family": "browser_agent",
+    "role": "coder_system_prompt",
+    "path": "dia/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "z_ai_code.coder_system_prompt.prompt",
+    "tool": "Z.ai Code",
+    "vendor": null,
+    "family": "IDE",
+    "role": "coder_system_prompt",
+    "path": "Z.ai Code/prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "codebuddy.coder_system_prompt.chat_prompt",
+    "tool": "CodeBuddy",
+    "vendor": null,
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "CodeBuddy Prompts/Chat Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "codebuddy.coder_system_prompt.craft_prompt",
+    "tool": "CodeBuddy",
+    "vendor": null,
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "CodeBuddy Prompts/Craft Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cluely.coder_system_prompt.default_prompt",
+    "tool": "Cluely",
+    "vendor": null,
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "Cluely/Default Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cluely.coder_system_prompt.enterprise_prompt",
+    "tool": "Cluely",
+    "vendor": null,
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "Cluely/Enterprise Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "poke.other.poke_p5",
+    "tool": "Poke",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Poke/Poke_p5.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "poke.other.poke_p1",
+    "tool": "Poke",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Poke/Poke_p1.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "poke.other.poke_p4",
+    "tool": "Poke",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Poke/Poke_p4.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "poke.other.poke_p2",
+    "tool": "Poke",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Poke/Poke_p2.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "poke.other.poke_agent",
+    "tool": "Poke",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Poke/Poke agent.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "poke.other.poke_p6",
+    "tool": "Poke",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Poke/Poke_p6.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "poke.other.poke_p3",
+    "tool": "Poke",
+    "vendor": null,
+    "family": "autonomous_agent",
+    "role": "other",
+    "path": "Poke/Poke_p3.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cline.coder_system_prompt.prompt",
+    "tool": "Cline",
+    "vendor": "Open Source",
+    "family": "open_source_oss",
+    "role": "coder_system_prompt",
+    "path": "Open Source prompts/Cline/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "bolt.coder_system_prompt.prompt",
+    "tool": "Bolt",
+    "vendor": "Open Source",
+    "family": "open_source_oss",
+    "role": "coder_system_prompt",
+    "path": "Open Source prompts/Bolt/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "roocode.coder_system_prompt.prompt",
+    "tool": "RooCode",
+    "vendor": "Open Source",
+    "family": "open_source_oss",
+    "role": "coder_system_prompt",
+    "path": "Open Source prompts/RooCode/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "gemini_cli.coder_system_prompt.google-gemini-cli-system-prompt",
+    "tool": "Gemini CLI",
+    "vendor": "Open Source",
+    "family": "open_source_oss",
+    "role": "coder_system_prompt",
+    "path": "Open Source prompts/Gemini CLI/google-gemini-cli-system-prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "codex_cli.coder_system_prompt.prompt",
+    "tool": "Codex CLI",
+    "vendor": "Open Source",
+    "family": "open_source_oss",
+    "role": "coder_system_prompt",
+    "path": "Open Source prompts/Codex CLI/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "codex_cli.coder_system_prompt.openai-codex-cli-system-prompt-20250820",
+    "tool": "Codex CLI",
+    "vendor": "Open Source",
+    "family": "open_source_oss",
+    "role": "coder_system_prompt",
+    "path": "Open Source prompts/Codex CLI/openai-codex-cli-system-prompt-20250820.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "lumo.coder_system_prompt.prompt",
+    "tool": "Lumo",
+    "vendor": "Open Source",
+    "family": "open_source_oss",
+    "role": "coder_system_prompt",
+    "path": "Open Source prompts/Lumo/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "claude_code.coder_system_prompt.prompt",
+    "tool": "Claude Code",
+    "vendor": "Anthropic",
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "Anthropic/Claude Code/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "claude_code.tools_config.tools",
+    "tool": "Claude Code",
+    "vendor": "Anthropic",
+    "family": "other",
+    "role": "tools_config",
+    "path": "Anthropic/Claude Code/Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "claude_for_chrome.coder_system_prompt.prompt",
+    "tool": "Claude for Chrome",
+    "vendor": "Anthropic",
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "Anthropic/Claude for Chrome/Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "claude_for_chrome.tools_config.tools",
+    "tool": "Claude for Chrome",
+    "vendor": "Anthropic",
+    "family": "other",
+    "role": "tools_config",
+    "path": "Anthropic/Claude for Chrome/Tools.json",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "activate.other.authors",
+    "tool": "activate",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": "activate/lib/python3.12/site-packages/pip-24.0.dist-info/AUTHORS.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "activate.other.license",
+    "tool": "activate",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": "activate/lib/python3.12/site-packages/pip-24.0.dist-info/LICENSE.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "activate.other.top_level",
+    "tool": "activate",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": "activate/lib/python3.12/site-packages/pip-24.0.dist-info/top_level.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "activate.other.entry_points",
+    "tool": "activate",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": "activate/lib/python3.12/site-packages/pip-24.0.dist-info/entry_points.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "activate.other.vendor",
+    "tool": "activate",
+    "vendor": null,
+    "family": "other",
+    "role": "other",
+    "path": "activate/lib/python3.12/site-packages/pip/_vendor/vendor.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "antigravity.coder_system_prompt.fast_prompt",
+    "tool": "Antigravity",
+    "vendor": "Google",
+    "family": "other",
+    "role": "coder_system_prompt",
+    "path": "Google/Antigravity/Fast Prompt.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "antigravity.other.planning-mode",
+    "tool": "Antigravity",
+    "vendor": "Google",
+    "family": "other",
+    "role": "other",
+    "path": "Google/Antigravity/planning-mode.txt",
+    "model_hint": null,
+    "tags": []
+  },
+  {
+    "id": "gemini.other.ai_studio_vibe-coder",
+    "tool": "Gemini",
+    "vendor": "Google",
+    "family": "other",
+    "role": "other",
+    "path": "Google/Gemini/AI Studio vibe-coder.txt",
+    "model_hint": null,
+    "tags": []
+  }
+]
